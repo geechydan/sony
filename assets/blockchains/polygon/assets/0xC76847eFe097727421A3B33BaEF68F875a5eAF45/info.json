@@ -1,0 +1,10 @@
+{
+    "name": "Sony Cash",
+    "symbol": "SONY",
+    "decimals": 2,
+    "description": "Sony Cash is a Polygon-based utility token pegged to USDC with 2 decimal precision.",
+    "website": "https://digitaldebit.xyz",
+    "explorer": "https://polygonscan.com/token/0xC76847eFe097727421A3B33BaEF68F875a5eAF45",
+    "status": "active",
+    "id": "0xc76847efe097727421a3b33baef68f875a5eaf45"
+}
